@@ -45,14 +45,21 @@ LSM-TREE의 장점을 활용하여 대규모 데이터를 효율적으로 처리
 
 #### 데이터베이스
 
-1.Clone the repo
-  https://github.com/pnucse-capstone-2024/Capstone-2024-team-18/tree/main/cobblesDB-main
-2.Starter code
-  cobblesDB-main/cobblesDB
-  code .
-3.Install Tools
-  cargo x install-tools
-4.Run db sever
+1. Clone the repo
+   ```
+   https://github.com/pnucse-capstone-2024/Capstone-2024-team-18/tree/main/cobblesDB-main
+   ```
+3. Starter code
+   ```
+   cobblesDB-main/cobblesDB  
+   code .
+   ```
+4. Install Tools
+   ```
+   cargo x install-tools   
+   ```
+7. Run db sever 
+
   
   
 
